@@ -1,0 +1,10 @@
+body{
+    background-color: deepskyblue;
+}
+h1{
+    color: blueviolet;
+    background-color: dodgerblue;
+    font-size: 65px;
+    font-family: "Coiny", cursive;
+    text-align: center;
+}
