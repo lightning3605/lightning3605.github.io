@@ -8,3 +8,7 @@ h1{
     font-family: "Coiny", cursive;
     text-align: center;
 }
+img{
+    align-content: center;
+    box-sizing: border-box;
+}
